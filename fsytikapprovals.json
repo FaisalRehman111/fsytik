@@ -1,1 +1,22 @@
-
+{
+  "version": 1,
+  "schema": "universal-approval-v1",
+  "licenses": [
+    {
+      "id": 1,
+      "key_plain": "L82RP-PYYGD-D2SCA-URS8S-C6G27",
+      "key_hash": "bb1b1b293d64e3b51e1ea85d73ecf22e8e79d074b28682ec62b1cfd795e4e635",
+      "fingerprint_hash": "4d53f2c67e2b3f728b9ec4221011577b6794ceb9a197a667ec85b05796a866d3",
+      "label": "fsy",
+      "user_name": "fsy",
+      "user_email": "",
+      "activation_date": "2026-06-13",
+      "expiry": "2027-06-13",
+      "max_devices": 1,
+      "major": 1,
+      "status": "active",
+      "created_at": "2026-06-13T12:04:50.845495"
+    }
+  ],
+  "updated_at": "2026-06-13T12:04:50.845495Z"
+}
