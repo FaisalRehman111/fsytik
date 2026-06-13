@@ -6,7 +6,7 @@
       "id": "af77075e71fa0d03",
       "key_plain": "UVXHS-I0GK5-7NZYY-JAVDT",
       "key_hash": "8a7f436be6869e58d1ced677101a7f996da1bfa0b86d28123bb0d7e0e410d6a6",
-      "fingerprint_hash": "15115775ed1f5300c3a3fafc0ee6c96208671a9caeee76716c3094a01ad6655d",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
       "label": "",
       "user_name": "fsak",
       "user_email": "",
@@ -15,13 +15,14 @@
       "max_devices": 1,
       "major": 2,
       "status": "active",
-      "created_at": "2026-06-13T14:07:01.438304"
+      "created_at": "2026-06-13T14:07:01.438304",
+      "fingerprint_wildcard": true
     },
     {
       "id": "a3caa9f8e9f1b1d7",
       "key_plain": "J62N5-C9P3S-OBPQT-7K3L6",
       "key_hash": "878ffe515b2a09036875a16e2350954c5744740d6458a08fc98e5ad0f7318c9d",
-      "fingerprint_hash": "15115775ed1f5300c3a3fafc0ee6c96208671a9caeee76716c3094a01ad6655d",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
       "label": "",
       "user_name": "",
       "user_email": "",
@@ -30,8 +31,69 @@
       "max_devices": 1,
       "major": 2,
       "status": "active",
-      "created_at": "2026-06-13T16:06:53.156970"
+      "created_at": "2026-06-13T16:06:53.156970",
+      "fingerprint_wildcard": true
+    },
+    {
+      "id": 1,
+      "key_plain": "WS8X-8RCH-X6GP-SCJ9",
+      "key_hash": "6e6e7ab05134f94e91ec8d28a6cd18bdc39b9ffbf3a3fb869011a4ab5618b798",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
+      "fingerprint_wildcard": true,
+      "label": "",
+      "user_name": "FSDERTT",
+      "user_email": "",
+      "activation_date": "2026-06-13T16:43:18.968239Z",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:43:18.968239Z"
+    },
+    {
+      "id": 2,
+      "key_plain": "SU67-C4QV-BECZ-CEA9",
+      "key_hash": "e37b4c27a48022295bf994247c91b99dc91bbdcf26b395bbd3bc534913a941b2",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
+      "fingerprint_wildcard": true,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-13T16:43:18.968239Z",
+      "expiry": "2027-06-13",
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:43:18.968239Z"
+    },
+    {
+      "id": 3,
+      "key_plain": "QL7W-GM87-4KNW-ZVN9",
+      "key_hash": "e5d399629ef65a4b179e609ded463df7381dac8e7da7e81305ebc8bab60ddfcb",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
+      "fingerprint_wildcard": true,
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-13T16:43:18.968239Z",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:43:18.968239Z"
+    },
+    {
+      "id": 4,
+      "key_plain": "NCQZ-K47Z-S74F-GVE4",
+      "key_hash": "45d880fead4fa016ac74e5431bc05cffb896ea9b840a568f8cb56cad50a08dc1",
+      "fingerprint_hash": "8225aed66fcb4924add6b40feb053422b7da5a0671b7453226b10c62ca809633",
+      "fingerprint_wildcard": true,
+      "label": "",
+      "user_name": "FSDTY",
+      "user_email": "",
+      "activation_date": "2026-06-13T16:43:18.968239Z",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:43:18.968239Z"
     }
   ],
-  "updated_at": "2026-06-13T12:04:50.845495Z"
+  "updated_at": "2026-06-13T16:43:18.968239Z"
 }
