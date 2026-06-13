@@ -16,6 +16,21 @@
       "major": 2,
       "status": "active",
       "created_at": "2026-06-13T14:07:01.438304"
+    },
+    {
+      "id": "a3caa9f8e9f1b1d7",
+      "key_plain": "J62N5-C9P3S-OBPQT-7K3L6",
+      "key_hash": "878ffe515b2a09036875a16e2350954c5744740d6458a08fc98e5ad0f7318c9d",
+      "fingerprint_hash": "15115775ed1f5300c3a3fafc0ee6c96208671a9caeee76716c3094a01ad6655d",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-06-13T16:06:53.154848",
+      "expiry": "2027-06-13",
+      "max_devices": 1,
+      "major": 2,
+      "status": "active",
+      "created_at": "2026-06-13T16:06:53.156970"
     }
   ],
   "updated_at": "2026-06-13T12:04:50.845495Z"
