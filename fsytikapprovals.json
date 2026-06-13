@@ -16,21 +16,6 @@
       "major": 1,
       "status": "active",
       "created_at": "2026-06-13T12:04:50.845495"
-    },
-    {
-      "id": "17bc518d420703c1",
-      "key_plain": "HK7PE-SLZXN-CLZFU-3KNM0",
-      "key_hash": "959e8965f4f0e2030a3f5fcafb511896deb261e24a17b5f9b7e484f62826c178",
-      "fingerprint_hash": "15115775ed1f5300c3a3fafc0ee6c96208671a9caeee76716c3094a01ad6655d",
-      "label": "",
-      "user_name": "fsdysd",
-      "user_email": "",
-      "activation_date": "2026-06-13T13:53:36.250371",
-      "expiry": "2027-06-13",
-      "max_devices": 1,
-      "major": 2,
-      "status": "active",
-      "created_at": "2026-06-13T13:53:36.250371"
     }
   ],
   "updated_at": "2026-06-13T12:04:50.845495Z"
