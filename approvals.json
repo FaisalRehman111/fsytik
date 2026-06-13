@@ -46,7 +46,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-13T16:33:31.089734Z"
+    },
+    {
+      "id": 6,
+      "key_plain": "NCQZ-K47Z-S74F-GVE4",
+      "key_hash": "04b23f861c02a214ad15fd2137d6ab7c9cb2fe4e6f4cbbb6441cce89413ed01c",
+      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "FSDTY",
+      "user_email": "",
+      "activation_date": "2026-06-13",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:34:19.617282Z"
     }
   ],
-  "updated_at": "2026-06-13T16:33:31.089734Z"
+  "updated_at": "2026-06-13T16:34:19.617282Z"
 }
