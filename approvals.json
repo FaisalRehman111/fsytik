@@ -76,7 +76,22 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-06-13T16:47:48.185020Z"
+    },
+    {
+      "id": 8,
+      "key_plain": "D27R-YBZC-2G2J-DGGV",
+      "key_hash": "20a13e8e1133efe0dbc424a9e7de8a749da505dfc45f9bfbfa7ad516fd4ef093",
+      "fingerprint_hash": "78882046f7bd4d09dbd0b9c8e646c91c2ecc2ffc175ecc5a98cf0fc3c169ae9c",
+      "fingerprint_wildcard": false,
+      "label": "",
+      "user_name": "faisal mand",
+      "user_email": "",
+      "activation_date": "2026-06-13",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-06-13T16:57:58.840591Z"
     }
   ],
-  "updated_at": "2026-06-13T16:47:48.185020Z"
+  "updated_at": "2026-06-13T16:57:58.840591Z"
 }
