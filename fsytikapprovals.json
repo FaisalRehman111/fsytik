@@ -1,6 +1,22 @@
 {
   "version": 1,
   "schema": "universal-approval-v1",
-  "licenses": [],
+  "licenses": [
+    {
+      "id": "af77075e71fa0d03",
+      "key_plain": "UVXHS-I0GK5-7NZYY-JAVDT",
+      "key_hash": "8a7f436be6869e58d1ced677101a7f996da1bfa0b86d28123bb0d7e0e410d6a6",
+      "fingerprint_hash": "15115775ed1f5300c3a3fafc0ee6c96208671a9caeee76716c3094a01ad6655d",
+      "label": "",
+      "user_name": "fsak",
+      "user_email": "",
+      "activation_date": "2026-06-13T14:07:01.436282",
+      "expiry": "2027-06-13",
+      "max_devices": 1,
+      "major": 2,
+      "status": "active",
+      "created_at": "2026-06-13T14:07:01.438304"
+    }
+  ],
   "updated_at": "2026-06-13T12:04:50.845495Z"
 }
